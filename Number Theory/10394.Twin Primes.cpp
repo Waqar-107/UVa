@@ -40,7 +40,7 @@ void sieve()
 	int i, j, k;
 	int n = sqrt(N) + 1;
 
-	for (i = 3; i < n; i++)
+	for (i = 3; i < n; i+=2)
 	{
 		if (!f[i])
 		{
