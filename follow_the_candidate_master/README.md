@@ -5,3 +5,9 @@
 3. 10783 - Odd Sum	
 
 4. 11715 - Car
+
+5. 10327 - Flip Sort
+
+6. 11461 - Square Numbers	 
+
+7. 11332 - Summing Digits
