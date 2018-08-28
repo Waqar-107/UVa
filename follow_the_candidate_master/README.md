@@ -11,3 +11,5 @@
 6. 11461 - Square Numbers	 
 
 7. 11332 - Summing Digits
+
+8. 11479 - Is this the easiest problem?
