@@ -26,19 +26,6 @@ typedef unsigned long long int ull;
 
 using namespace std;
 
-map<int,int> fib;
-void gen()
-{
-    int a=1, b=2,c;
-
-    fib[1]=1; fib[2]=2;
-    for(int i=3;i<=150;i++)
-    {
-        c=a+b; a=b; b=c;
-        fib[c]=i;
-    }
-}
-
 int main()
 {
     freopen("in.txt","r",stdin);
